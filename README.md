@@ -1,4 +1,2 @@
-# Shop-ecommerce-website
+# Shop-ecommerce
 
-
-/https://replit.com/@billtomno254/Ecommerce-site/
